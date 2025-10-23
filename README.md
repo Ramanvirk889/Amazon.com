@@ -2,10 +2,10 @@
 
 <p>This project is a front-end clone of the Amazon.com homepage, created using HTML and CSS. It replicates the main layout, including the navigation bar, search section, product boxes, and footer links.</p>
 <h2>Preview</h2>
-<img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/deb6ba1f-2119-4b9c-bbe5-455502795e50" />
-<img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/22f24fc6-e7df-4e37-a51e-082c91a8cfd1" />
-<img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/b3a8e979-8bff-45ac-bcd5-3b8a505e367a" />
-<img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/f2f02fd0-59dc-451e-9c3f-2845764d1062" />
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/deb6ba1f-2119-4b9c-bbe5-455502795e50" />
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/22f24fc6-e7df-4e37-a51e-082c91a8cfd1" />
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/b3a8e979-8bff-45ac-bcd5-3b8a505e367a" />
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/f2f02fd0-59dc-451e-9c3f-2845764d1062" />
 
 
 
